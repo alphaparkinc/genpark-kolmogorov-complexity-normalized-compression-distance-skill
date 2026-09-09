@@ -1,0 +1,17 @@
+{
+  "name": "genpark-kolmogorov-complexity-normalized-compression-distance-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Normalized Compression Distance (NCD) & Kolmogorov Complexity Universal Metric",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "information-theory",
+    "kolmogorov-complexity",
+    "normalized-compression-distance",
+    "semantic-clustering"
+  ]
+}
